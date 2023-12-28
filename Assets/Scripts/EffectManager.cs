@@ -24,7 +24,6 @@ public class EffectManager : MonoBehaviour
         {
             GameObject obj = Instantiate(effectPrefabs[index], parent);
             obj.transform.localPosition = Vector3.zero;
-
             StartCoroutine(C_DestoryEffect(obj, destoryTime[index]));
         }
     }
