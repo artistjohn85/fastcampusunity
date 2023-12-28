@@ -7,6 +7,9 @@ public class CubePlay : MonoBehaviour
 {
     private Animator animator; // cache
     private SoundManager soundManager; // cache
+    private EffectManager effectManager; // cache
+    //[SerializeField] private GameObject effectPrefab; 
+    [SerializeField] private Transform effectPos;
     private bool isAttack = false;
 
     void Start()
@@ -14,8 +17,13 @@ public class CubePlay : MonoBehaviour
         animator = GetComponent<Animator>();
         soundManager = FindAnyObjectByType<SoundManager>();
 
-        soundManager.PlaySound(2, false);
-        Invoke("FadeOutSound", 3f);
+        //soundManager.PlaySound(2, false);
+        //Invoke("FadeOutSound", 3f);
+
+        //Instantiate(effectPrefab, effectPos);
+
+        effectManager = FindAnyObjectByType<EffectManager>();
+        effectManager.PlayEffect(0, effectPos);
     }
 
     private void FadeOutSound()
