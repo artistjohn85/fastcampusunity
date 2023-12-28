@@ -6,11 +6,21 @@ using UnityEngine;
 public class CubePlay : MonoBehaviour
 {
     private Animator animator; // cache
+    private SoundManager soundManager; // cache
     private bool isAttack = false;
 
     void Start()
     {
         animator = GetComponent<Animator>();
+        soundManager = FindAnyObjectByType<SoundManager>();
+
+        soundManager.PlaySound(2, false);
+        Invoke("FadeOutSound", 3f);
+    }
+
+    private void FadeOutSound()
+    {
+        soundManager.Fadeout(2);
     }
     
     void Update()
@@ -18,25 +28,40 @@ public class CubePlay : MonoBehaviour
         float horizontal = Input.GetAxis("Horizontal");
         if (Mathf.Abs(horizontal) > Mathf.Epsilon)
         {
-            if (!isAttack)
-                animator.Play("Mov");
+            MoveState();
         }
         else
         {
-            if (!isAttack)
-                animator.Play("Idle");
+            IdleState();
         }
 
-        if (Input.GetKeyDown(KeyCode.A)) 
+        if (Input.GetKeyDown(KeyCode.Z)) 
         {
             AttackState();
         }
+    }
+
+    private void MoveState()
+    {
+        if (!isAttack)
+        {
+            animator.Play("Mov");
+            soundManager.PlaySound(0, false);
+        }
+    }
+
+    private void IdleState()
+    {
+        if (!isAttack)
+            animator.Play("Idle");
     }
 
     private void AttackState()
     {
         isAttack = true;
         animator.Play("Attack");
+        soundManager.PlaySound(1, true);
+
         StartCoroutine(C_AttackStateFinish());
     }
 
