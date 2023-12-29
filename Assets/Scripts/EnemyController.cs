@@ -141,16 +141,16 @@ public class EnemyController : MonoBehaviour
         //    transform.Translate(0, 0, -1);
         //}
 
-        agent.SetDestination(playerController.transform.position);
+        //agent.SetDestination(playerController.transform.position);
 
-        Collider[] colliders = Physics.OverlapSphere(transform.position, 1f);
-        foreach (Collider collider in colliders)
-        {
-            if (collider.gameObject.tag == "Player")
-            {
-                collider.GetComponent<PlayerController>().Attack();
-            }
-        }
+        //Collider[] colliders = Physics.OverlapSphere(transform.position, 1f);
+        //foreach (Collider collider in colliders)
+        //{
+        //    if (collider.gameObject.tag == "Player")
+        //    {
+        //        collider.GetComponent<PlayerController>().Attack();
+        //    }
+        //}
     }
 
     public void Attack()
