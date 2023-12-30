@@ -1,0 +1,298 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+    - {fileID: 2800000, guid: 1e9d99fee7fe99140952ee7b1ebde812, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -141283093
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -1564104026
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -367919877
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 794775860
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -763605031
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1111816321
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1438876550
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -471592536
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -20804467
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -869509566
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -623257939
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1707865569
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 300509132
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -668469107
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -969052734
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 232861873
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1558808319
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -1480648832
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1253350934
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1199922546
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -664095902
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1232895814
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 962920713
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 241793389
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1477919149
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1919640976
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1156739670
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -386591290
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1704436887
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -51737366
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -939161507
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 440822408
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -1682311912
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -334455678
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -450212249
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1174892633
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -754854007
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -1329106583
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1216321099
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 2045296338
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1990492285
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1243954563
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 156067271
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 429530196
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -727307574
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -269242030
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -2121034569
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -73309434
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 2102043026
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -2122940193
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 915402422
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -1264864365
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 700599288
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1680209036
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 766786290
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1457102062
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 629413356
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 85374859
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -1268998223
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -1812994051
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 2073741664
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 588626096
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 316419009
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -165931436
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -1901119646
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -193549680
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1396946960
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -879963307
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -769650842
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -1286109435
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 469954021
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1384181191
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -1935373442
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 401493610
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 946686579
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 552575911
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -80593271
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1437123110
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 529334480
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 504623795
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 1917578913
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: 633160506
+    - 4d55331c01bfc7b4b87d4b577ee3d7b7: -101094648
+    - 1e9d99fee7fe99140952ee7b1ebde812: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -141283093, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -1564104026, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -367919877, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 794775860, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -763605031, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1111816321, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1438876550, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -471592536, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -20804467, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -869509566, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -623257939, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1707865569, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 300509132, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -668469107, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -969052734, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 232861873, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1558808319, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -1480648832, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1253350934, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1199922546, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -664095902, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1232895814, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 962920713, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 241793389, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1477919149, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1919640976, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1156739670, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -386591290, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1704436887, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -51737366, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -939161507, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 440822408, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -1682311912, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -334455678, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -450212249, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1174892633, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -754854007, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -1329106583, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1216321099, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 2045296338, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1990492285, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1243954563, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 156067271, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 429530196, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -727307574, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -269242030, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -2121034569, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -73309434, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 2102043026, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -2122940193, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 915402422, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -1264864365, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 700599288, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1680209036, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 766786290, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1457102062, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 629413356, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 85374859, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -1268998223, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -1812994051, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 2073741664, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 588626096, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 316419009, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -165931436, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -1901119646, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -193549680, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1396946960, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -879963307, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -769650842, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -1286109435, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 469954021, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1384181191, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -1935373442, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 401493610, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 946686579, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 552575911, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -80593271, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1437123110, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 529334480, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 504623795, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 1917578913, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 633160506, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: -101094648, guid: 4d55331c01bfc7b4b87d4b577ee3d7b7, type: 3}
+  - {fileID: 21300000, guid: 1e9d99fee7fe99140952ee7b1ebde812, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Mobile - Flappy Bird - Version 12 Sprites_77
+  - Mobile - Flappy Bird - Version 12 Sprites_28
+  - Mobile - Flappy Bird - Version 12 Sprites_76
+  - Mobile - Flappy Bird - Version 12 Sprites_29
+  - Mobile - Flappy Bird - Version 12 Sprites_75
+  - Mobile - Flappy Bird - Version 12 Sprites_82
+  - Mobile - Flappy Bird - Version 12 Sprites_74
+  - Mobile - Flappy Bird - Version 12 Sprites_73
+  - Mobile - Flappy Bird - Version 12 Sprites_80
+  - Mobile - Flappy Bird - Version 12 Sprites_72
+  - Mobile - Flappy Bird - Version 12 Sprites_48
+  - Mobile - Flappy Bird - Version 12 Sprites_81
+  - Mobile - Flappy Bird - Version 12 Sprites_39
+  - Mobile - Flappy Bird - Version 12 Sprites_71
+  - Mobile - Flappy Bird - Version 12 Sprites_49
+  - Mobile - Flappy Bird - Version 12 Sprites_38
+  - Mobile - Flappy Bird - Version 12 Sprites_70
+  - Mobile - Flappy Bird - Version 12 Sprites_20
+  - Mobile - Flappy Bird - Version 12 Sprites_21
+  - Mobile - Flappy Bird - Version 12 Sprites_59
+  - Mobile - Flappy Bird - Version 12 Sprites_22
+  - Mobile - Flappy Bird - Version 12 Sprites_42
+  - Mobile - Flappy Bird - Version 12 Sprites_58
+  - Mobile - Flappy Bird - Version 12 Sprites_23
+  - Mobile - Flappy Bird - Version 12 Sprites_33
+  - Mobile - Flappy Bird - Version 12 Sprites_43
+  - Mobile - Flappy Bird - Version 12 Sprites_24
+  - Mobile - Flappy Bird - Version 12 Sprites_32
+  - Mobile - Flappy Bird - Version 12 Sprites_40
+  - Mobile - Flappy Bird - Version 12 Sprites_25
+  - Mobile - Flappy Bird - Version 12 Sprites_31
+  - Mobile - Flappy Bird - Version 12 Sprites_79
+  - Mobile - Flappy Bird - Version 12 Sprites_41
+  - Mobile - Flappy Bird - Version 12 Sprites_55
+  - Mobile - Flappy Bird - Version 12 Sprites_26
+  - Mobile - Flappy Bird - Version 12 Sprites_30
+  - Mobile - Flappy Bird - Version 12 Sprites_78
+  - Mobile - Flappy Bird - Version 12 Sprites_46
+  - Mobile - Flappy Bird - Version 12 Sprites_54
+  - Mobile - Flappy Bird - Version 12 Sprites_27
+  - Mobile - Flappy Bird - Version 12 Sprites_37
+  - Mobile - Flappy Bird - Version 12 Sprites_47
+  - Mobile - Flappy Bird - Version 12 Sprites_57
+  - Mobile - Flappy Bird - Version 12 Sprites_36
+  - Mobile - Flappy Bird - Version 12 Sprites_44
+  - Mobile - Flappy Bird - Version 12 Sprites_56
+  - Mobile - Flappy Bird - Version 12 Sprites_35
+  - Mobile - Flappy Bird - Version 12 Sprites_45
+  - Mobile - Flappy Bird - Version 12 Sprites_51
+  - Mobile - Flappy Bird - Version 12 Sprites_34
+  - Mobile - Flappy Bird - Version 12 Sprites_50
+  - Mobile - Flappy Bird - Version 12 Sprites_53
+  - Mobile - Flappy Bird - Version 12 Sprites_52
+  - Mobile - Flappy Bird - Version 12 Sprites_8
+  - Mobile - Flappy Bird - Version 12 Sprites_9
+  - Mobile - Flappy Bird - Version 12 Sprites_2
+  - Mobile - Flappy Bird - Version 12 Sprites_3
+  - Mobile - Flappy Bird - Version 12 Sprites_0
+  - Mobile - Flappy Bird - Version 12 Sprites_1
+  - Mobile - Flappy Bird - Version 12 Sprites_6
+  - Mobile - Flappy Bird - Version 12 Sprites_7
+  - Mobile - Flappy Bird - Version 12 Sprites_4
+  - Mobile - Flappy Bird - Version 12 Sprites_5
+  - Mobile - Flappy Bird - Version 12 Sprites_11
+  - Mobile - Flappy Bird - Version 12 Sprites_10
+  - Mobile - Flappy Bird - Version 12 Sprites_13
+  - Mobile - Flappy Bird - Version 12 Sprites_12
+  - Mobile - Flappy Bird - Version 12 Sprites_64
+  - Mobile - Flappy Bird - Version 12 Sprites_15
+  - Mobile - Flappy Bird - Version 12 Sprites_65
+  - Mobile - Flappy Bird - Version 12 Sprites_14
+  - Mobile - Flappy Bird - Version 12 Sprites_66
+  - Mobile - Flappy Bird - Version 12 Sprites_17
+  - Mobile - Flappy Bird - Version 12 Sprites_67
+  - Mobile - Flappy Bird - Version 12 Sprites_16
+  - Mobile - Flappy Bird - Version 12 Sprites_60
+  - Mobile - Flappy Bird - Version 12 Sprites_19
+  - Mobile - Flappy Bird - Version 12 Sprites_61
+  - Mobile - Flappy Bird - Version 12 Sprites_18
+  - Mobile - Flappy Bird - Version 12 Sprites_62
+  - Mobile - Flappy Bird - Version 12 Sprites_63
+  - Mobile - Flappy Bird - Version 12 Sprites_68
+  - Mobile - Flappy Bird - Version 12 Sprites_69
+  - 285632_cloud_icon
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
